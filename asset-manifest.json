@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VaibhaoHatwar/react-tic-tac-toe/static/css/main.bfaf1f47.css",
+    "main.js": "/VaibhaoHatwar/react-tic-tac-toe/static/js/main.539e38b0.js",
+    "index.html": "/VaibhaoHatwar/react-tic-tac-toe/index.html",
+    "main.bfaf1f47.css.map": "/VaibhaoHatwar/react-tic-tac-toe/static/css/main.bfaf1f47.css.map",
+    "main.539e38b0.js.map": "/VaibhaoHatwar/react-tic-tac-toe/static/js/main.539e38b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfaf1f47.css",
+    "static/js/main.539e38b0.js"
+  ]
+}
